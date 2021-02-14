@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# FILE-TREE-GADGET
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and based upon the tutorial that you can watch there :
+https://www.youtube.com/watch?v=fQ1OA9Wyf2U&ab_channel=HeyProgrammers
 
 ## Available Scripts
 
